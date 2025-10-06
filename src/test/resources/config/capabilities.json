@@ -4,7 +4,8 @@
     "appium:automationName": "UiAutomator2",
     "appium:deviceName": "JoseLuis",
     "appium:appPackage": "com.letterboxd.letterboxd",
-    "appium:appActivity": "com.letterboxd.letterboxd.MainActivity"
+    "appium:appActivity": "com.letterboxd.letterboxd.MainActivity",
+    "noReset": false
   },
   "ios": {
     "platformName": "iOS",
