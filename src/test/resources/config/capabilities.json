@@ -1,0 +1,16 @@
+{
+  "android": {
+    "platformName": "Android",
+    "appium:automationName": "UiAutomator2",
+    "appium:deviceName": "JoseLuis",
+    "appium:appPackage": "com.letterboxd.letterboxd",
+    "appium:appActivity": "com.letterboxd.letterboxd.MainActivity"
+  },
+  "ios": {
+    "platformName": "iOS",
+    "appium:automationName": "XCUITest",
+    "appium:deviceName": "iPhone 14",
+    "appium:udid": "000",
+    "appium:bundleId": "com.letterboxd.letterboxd"
+  }
+}

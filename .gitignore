@@ -1,0 +1,24 @@
+# Build output
+target/
+build/
+
+# Maven
+*.log
+*.lst
+*.xml
+!pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Reports
+surefire-reports/
+test-output/
+maven-status/
+
+# OS files
+.DS_Store
+Thumbs.db
