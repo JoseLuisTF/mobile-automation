@@ -158,3 +158,8 @@ mvn clean test
 ![Demo](https://i.imgur.com/A4YO77l.gif)
 
 [Demo](https://i.imgur.com/A4YO77l.gif)
+
+#### Logs de Ejecucion
+
+![Logs](https://i.imgur.com/gH9jmSM.png)
+
