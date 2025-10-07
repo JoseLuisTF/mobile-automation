@@ -154,12 +154,8 @@ mvn clean test
 
 #### Aplicacion utilizada [Letterboxd](https://play.google.com/store/apps/details?id=com.letterboxd.letterboxd&hl=en)
 
-
 ![Demo](./demo.gif)
-
-[Demo](https://files.catbox.moe/d369x3.gif)
 
 #### Logs de Ejecucion
 
 ![Logs](https://i.imgur.com/gH9jmSM.png)
-
